@@ -1,5 +1,5 @@
 # Hello, Everyone I'm [Nova JE] 👋 Contact me if you want to discuss about apps. Enjoyyyy!!!
-=============================================================================================
+
 # Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/novajuniermi)
