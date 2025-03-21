@@ -8,4 +8,5 @@
 
   
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=novaje&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
