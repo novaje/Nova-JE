@@ -1,4 +1,11 @@
-# Hello, I'm [Nova JE] 👋
+# Hello, Everyone I'm [Nova JE] 👋 Contact me if you want to discuss about apps. Enjoyyyy!!!
+=============================================================================================
+# Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/novajuniermi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nova_je15)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@nv_1599)
+
 
 # Tech Stack
 
