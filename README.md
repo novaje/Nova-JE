@@ -1,4 +1,4 @@
-# Hello, Everyone I'm [Nova JE] 👋 Contact me if you want to discuss about apps. Enjoyyyy!!!
+# Hello, Everyone I'm Nova JE 👋 Contact me if you want to discuss about apps. Enjoyyyy!!!
 
 # Socials
 
